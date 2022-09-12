@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandresolbes
 - 👀 I’m interested in Sports, crypto and code
-- 🌱 I’m currently learning HTML/CSS & Ruby
+- 🌱 I’m currently learning HTML/CSS, Ruby & Javascript
 - 💞️ I’m looking to collaborate on projects later on 
 - 📫 How to reach me ...
 
